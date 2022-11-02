@@ -1,6 +1,6 @@
 ### Hi there 👋, Serhiy Petelin
 #### Front-End Developer
-![Front-End Developer](https://images.app.goo.gl/uVtJAqVQVkpw4w8q7)
+!(https://images.app.goo.gl/uVtJAqVQVkpw4w8q7)
 
 I'm Serhiy from Ukraine, and I Self - taught Front-End Web developer, with over 2 years expirience. I currently aim to learn as much as i can in work environment, and to further my own abilities in a professional setting.
 
