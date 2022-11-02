@@ -13,6 +13,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiyPetelin&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SerhiyPetelin)  
-
-![Profile views](https://gpvc.arturio.dev/SerhiyPetelin)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SerhiyPetelin)
