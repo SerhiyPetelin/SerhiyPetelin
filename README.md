@@ -1,6 +1,8 @@
 ### Hi there 👋, Serhiy Petelin
 #### Front-End Developer
 
+#### !!!Reminder to myself => pet project idea => file conversion website
+
 I'm Serhiy from Ukraine, and I Self - taught Front-End Web developer, with over 2 years expirience. I currently aim to learn as much as i can in work environment, and to further my own abilities in a professional setting.
 
 Skills: REACT / JS / HTML / CSS
