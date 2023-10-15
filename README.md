@@ -27,8 +27,6 @@
 <br/>
 
 
-
-
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
