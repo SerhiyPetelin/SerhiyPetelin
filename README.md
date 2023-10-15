@@ -5,7 +5,10 @@
   <img src="https://i.pinimg.com/564x/8d/64/40/8d6440327a2996b8661f7c7b08c9b88f.jpg" align="right" height="282" width="282" alt="Web development">
 </div>
 
-I'm frontend developer with an insatiable passion for coding and a flair for crafting compelling digital products.All coding projects are built from the ground up, from planning and designing all way to solving real-life problems with code. Driven by a fascination for elegant and user-centric design, I am committed to creating web solutions that not only meet functional requirements but also leave a lasting impression. As a perpetual learner, I thrive on challenges and view each coding obstacle as an opportunity for growth. This GitHub space serves as a dynamic showcase of my coding ventures, from humble beginnings to ambitious projects. Feel free to explore the lines of code that represent my dedication to the art of frontend development. Let's connect, collaborate, and build the digital future together! 🚀💻
+<p style="padding-top:20px" style="padding-bottom:20px">
+  I'm frontend developer with an insatiable passion for coding and a flair for crafting compelling digital products.All coding projects are built from the ground up, from planning and designing all way to solving real-life problems with code. Driven by a fascination for elegant and user-centric design, I am committed to creating web solutions that not only meet functional requirements but also leave a lasting impression. As a perpetual learner, I thrive on challenges and view each coding obstacle as an opportunity for growth. This GitHub space serves as a dynamic showcase of my coding ventures, from humble beginnings to ambitious projects. Feel free to explore the lines of code that represent my dedication to the art of frontend development. Let's connect, collaborate, and build the digital future together! 🚀💻
+</p>
+
 <br/>
 
 ---
