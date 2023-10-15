@@ -5,11 +5,13 @@
   <img src="https://i.pinimg.com/564x/8d/64/40/8d6440327a2996b8661f7c7b08c9b88f.jpg" align="right" height="282" width="282" alt="Web development">
 </div>
 
-I'm frontend developer with an insatiable passion for coding and a flair for crafting compelling digital products.All coding projects are built from the ground up, from planning and designing all way to solving real-life problems with code. Driven by a fascination for elegant and user-centric design, I am committed to creating web solutions that not only meet functional requirements but also leave a lasting impression. As a perpetual learner, I thrive on challenges and view each coding obstacle as an opportunity for growth.
+I'm frontend developer with an insatiable passion for coding and a flair for crafting compelling digital products.All coding projects are built from the ground up, from planning and designing all way to solving real-life problems with code. Driven by a fascination for elegant and user-centric design, I am committed to creating web solutions that not only meet functional requirements but also leave a lasting impression. As a perpetual learner, I thrive on challenges and view each coding obstacle as an opportunity for growth. This GitHub space serves as a dynamic showcase of my coding ventures, from humble beginnings to ambitious projects. Feel free to explore the lines of code that represent my dedication to the art of frontend development. Let's connect, collaborate, and build the digital future together! 🚀💻
 <br/>
 
 ---
 ### :hammer: Languages and Tools
+
+ <!-- GitHub Tools and Languages Icons - https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
 
 <img align="left" alt="" width="60px" style="padding-right:10px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
 <img align="left" alt="" width="60px" style="padding-right:10px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
@@ -46,4 +48,4 @@ I'm frontend developer with an insatiable passion for coding and a flair for cra
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SerhiyPetelin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SerhiyPetelin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SerhiyPetelin)](https://github.com/ashutosh00710/github-readme-activity-graph)
